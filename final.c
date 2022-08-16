@@ -1,3 +1,5 @@
+//Half pyramid of numbers
+
 #include <stdio.h>
 int main() {
    int i, j, rows;
