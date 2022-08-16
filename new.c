@@ -1,3 +1,5 @@
+//Full pyramid 
+
 #include <stdio.h>
 int main() {
    int i, space, rows, k = 0;
