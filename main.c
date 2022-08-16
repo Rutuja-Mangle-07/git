@@ -1,4 +1,5 @@
-//Inverse pyramid code 
+//Code for printing inverse pyramid
+
 
 #include <stdio.h>
 int main() {
